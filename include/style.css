@@ -6,7 +6,7 @@
     width: 108%;
     height: 100%;
     margin-top: 60px;
-    background: url(../img/intro.png) no-repeat ;
+    background: url(../img/intro.png) no-repeat center ;
     background-size: cover;
 }
 
